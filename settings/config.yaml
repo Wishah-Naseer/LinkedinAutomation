@@ -1,0 +1,17 @@
+phantombuster:
+  api_key: "geDr6iZ1vkVdQmBH3ZYaqxrtdbnCz8gqxwmTnuIVZh4"
+  phantoms:
+    extract_likers: 8006564687557037
+    extract_liker_details: 4714540460684871
+    filter_likers_ai: 319864517940949
+    send_message: 8991918083661456
+
+google_sheets:
+  spreadsheet_url: "https://docs.google.com/spreadsheets/d/14FSsN9YNEeA8vGrOP0TyLwnfV4Qom4tRDhqiU6qxLfI"
+  credentials_path: "E:/Jobs/Workerbase/LinkedinAutomation/credentials/credentials.json"
+  sheets:
+    liker_details: "Liker-Details"
+    filtered_likers: "Filtered-Likers"
+
+automation:
+  polling_interval: 20  
