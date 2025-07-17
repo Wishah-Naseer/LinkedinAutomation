@@ -56,3 +56,7 @@ LinkedinAutomation/
 2. **Open your browser and go to:**
    [http://localhost:5000](http://localhost:5000)
 3. **Click the button to Perform Outreach, or visit `/run-all` endpoint.**
+
+## Useful Links
+  1. Loom videp explaining how the automation works: [click here.](https://www.loom.com/share/0f9140a3d0954f9888d3cf6e8189f9aa?sid=57eae115-6174-4549-9531-d8a35ead4d11)
+  2. Google Sheet link where the data is dumped: [click here.](https://docs.google.com/spreadsheets/d/14FSsN9YNEeA8vGrOP0TyLwnfV4Qom4tRDhqiU6qxLfI/edit?gid=539116565#gid=539116565)
